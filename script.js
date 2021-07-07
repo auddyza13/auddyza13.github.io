@@ -4,8 +4,8 @@ var CurStr = "";
 var Pos = 0;
 var Invert = false;
 
-var TextL = "พยากรณ์อากาศ";
-var TextR = "by auddy";
+var TextL = "Auddy";
+var TextR = "Auddy";
 
 function loop() {
     var Target = Flip ? TextR : TextL;
